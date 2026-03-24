@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bubble-blue: #1e90ff;
+  --color-bubble-light: #e6f3ff;
+  --color-bubble-dark: #0a1628;
+  --color-bubble-navy: #0d2137;
+  --color-bubble-accent: #00bfff;
+  --color-bubble-gold: #ffd700;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
